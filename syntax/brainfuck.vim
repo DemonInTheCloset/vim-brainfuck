@@ -4,4 +4,6 @@ endif
 
 syntax match brainfuckComment "\v[^][<>,.+-]+"
 
+highlight link brainfuckComment Comment
+
 let b:current_syntax = "brainfuck"
