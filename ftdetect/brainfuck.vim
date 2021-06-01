@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.bf set filetype=brainfuck
+au BufNewFile,BufRead *.bf setfiletype brainfuck
